@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+img {
+    width: 1343px;
+    height: 750px;
+    opacity: 0.5;
+}
+
+p {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    color: rgb(199, 15, 15);
+    margin-top: -740px;
+    margin-left: 100px;
+}
+
+#button {
+    padding: 5px;
+    border: none;
+    background-color: orange;
+    color: white;
+    font-size: x-large;
+    left: 1240px;
+    top: 40px;
+    position: absolute;
+}
+
+#button:hover {
+    background-color: orangered;
+    cursor: pointer;
+}
+
+#limited {
+    font-size: 50px;
+    color: rgb(2, 2, 2);
+    word-break: break-all;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 200px;
+    margin-left: 220px;
+}
+
+#watch {
+    font-size: 30px;
+    color: rgb(2, 2, 2);
+    word-break: break-all;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+#Ready {
+    font-size: 20px;
+    color: rgb(2, 2, 2);
+    word-break: break-all;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 400px;
+}
+
+.email {
+    margin-left: 500px;
+    background-color: rgb(7, 7, 7);
+    padding-right: 50px;
+    padding-top: 05px;
+    padding-bottom: 05px;
+    border:none;
+    margin-top: 20px;
+    position: absolute;
+}
+
+#btn {
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    position: absolute;
+    left: 730px;
+    top: 480px;
+}
+#btn:hover{
+    background-color: rgb(209, 63, 10);
+    cursor: pointer;
+}
+#div{
+    height: 100px;
+    width: 650px;
+    background-color: white; 
+    margin-left: 400px;
+    margin-top: 100px;
+    background: linear-gradient(to right, black, #621d9b 0%, #994770 100%,#621d9b 0%, black);
+    position: absolute;
+}
+#the{
+    margin: 20px;
+    margin-left: 140px;
+    font-size: x-large;
+}
